@@ -1,4 +1,4 @@
-  ## Hi there, I'm Stella 👩‍💻
+  ## Hi there, I'm Stella 🐍🌈
   
  <div>
   <a href="https://github.com/alletsc">
