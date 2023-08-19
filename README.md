@@ -17,6 +17,6 @@
  ![Numpy](https://img.shields.io/badge/-Numpy-brightgreen)
  ![Figma](https://img.shields.io/badge/-Figma-purple)
  ![Linux](https://img.shields.io/badge/-Linux-orange)
- ![Github](https://img.shields.io/badge/-Github-purple)
+ 
    
   :email: stellamaryane@gmail.com
